@@ -12,20 +12,32 @@ Os pacotes e versões utilizadas foram:
 
 ## Instalação
 
+Linux:
+
 git clone https://github.com/annarafaela/desafio_CD.git
-''' bash
+
 cd desafio_CB
 
-Linux:
 python3 -m venv venv
+
 source venv/bin/activate
+
 pip install -r pacotes_utilizados.txt
+
 jupyter notebook
+
 Abrir o arquivo 'Desafio_CD_LIGHTHOUSE.ipynb'
 
+---
+
 Windows:
+
 python3 -m venv venv
+
 venv\Scripts\activate
+
 pip install -r pacotes_utilizados.txt
+
 jupyter notebook
+
 Abrir o arquivo 'Desafio_CD_LIGHTHOUSE.ipynb'
