@@ -32,6 +32,10 @@ Abrir o arquivo 'Desafio_CD_LIGHTHOUSE.ipynb'
 
 Windows:
 
+git clone https://github.com/annarafaela/desafio_CD.git
+
+cd desafio_CB
+
 python3 -m venv venv
 
 venv\Scripts\activate
